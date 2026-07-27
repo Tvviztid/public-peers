@@ -52,6 +52,7 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://cirno.nadeko.net:44441`
   * `tls://cirno.nadeko.net:44442`
  
-* Lelystad, Flevoland, Leaseweb dedicated server, Public node, operated by [Orbit173](https://github.com/Orbit173), 1Gbit/s
-  * `tls://62.212.82.55:443?key=00000002a957313975d1fe53b9ac641b05b1a9c37da22d4ebcef45e7a5bd4c67`
-  * `tls://[2001:1af8:4010:a06c:3::112]:443?key=00000002a957313975d1fe53b9ac641b05b1a9c37da22d4ebcef45e7a5bd4c67`
+* Amsterdam, RoyaleHosting VPS, public node, operated by [Orbit173](https://github.com/Orbit173), 1Gbit/s
+  * `tls://nl1.route172.de:443?key=000000002643ae27bad63e2a81f1d30554ce9ea634f5990062a9e079e23593cd`
+  * `tcp://nl1.route172.de:65535?key=000000002643ae27bad63e2a81f1d30554ce9ea634f5990062a9e079e23593cd`
+  * `quic://nl1.route172.de:65535?key=000000002643ae27bad63e2a81f1d30554ce9ea634f5990062a9e079e23593cd`
